@@ -779,6 +779,10 @@
                     "name": "Blue Islands",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/ATR_72-600/blueislands.jpg"]
                 },
+                 {
+                    "name": "Binter",
+                    "texture": ["https://raw.githubusercontent.com/randomgeofsplayer/GEOFS-LiverySelector-more/main/liveries/ATR_72-600/BinterATR72.png"]
+                },
                 {
                     "name": "FlyBe",
                     "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/ATR_72-600/flybe.png"]
