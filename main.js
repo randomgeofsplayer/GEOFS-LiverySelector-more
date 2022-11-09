@@ -28,7 +28,7 @@ async function init(){
     //Load liveries
 
 
-    await fetch("https://raw.githubusercontent.com/randomgeofsplayer/GEOFS-LiverySelector-more/blob/main/livery.json").then(res => res.json()).then(data => liveryobj = data)
+    await fetch("https://raw.githubusercontent.com/randomgeofsplayer/GEOFS-LiverySelector-more/main/livery.json").then(res => res.json()).then(data => liveryobj = data)
 
     //remove original buttons
 
