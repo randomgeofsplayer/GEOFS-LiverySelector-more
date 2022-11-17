@@ -1820,6 +1820,16 @@
                 }
             ]
         },
+        "2706": {
+            "index": [0],
+            "parts": [0],
+            "liveries": [{
+                {
+                    "name": "TEST",
+                    "texture": ["https://raw.githubusercontent.com/randomgeofsplayer/GEOFS-LiverySelector-more/main/liveries/TEST.png"]
+                }
+            ]
+        },
         "3307": {
             "index": [0, 1, 2],
             "parts": [0, 0, 0],
@@ -1837,6 +1847,7 @@
             }
         ]
         },
+        
         "3054": {
             "index": [0],
             "parts": [0],
