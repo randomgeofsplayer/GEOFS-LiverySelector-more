@@ -1824,7 +1824,6 @@
             "index": [0],
             "parts": [0],
             "liveries": [{
-                {
                     "name": "TEST",
                     "texture": ["https://raw.githubusercontent.com/randomgeofsplayer/GEOFS-LiverySelector-more/main/liveries/TEST.png"]
                 }
